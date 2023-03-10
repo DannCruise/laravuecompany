@@ -37,7 +37,7 @@ Instalación:
 
 9) Ejecutar <b>npm install</b> para las dependencias de node.js
 
-10 Ejecutar <b>php artisan serve</b> para visualizarlo en el navegador o puedes usar Laragon, xammp, etc.
+10) Ejecutar <b>npm run build</b> y <b>php artisan serve</b> para visualizarlo en el navegador o puedes usar Laragon, xammp, etc.
 
 ## Tabla Departments
 - id 
